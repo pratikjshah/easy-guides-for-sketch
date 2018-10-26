@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>📐 Easy Guides for Sketch</title>
+        <link>https://github.com/pratikjshah/easy-guides-for-sketch/appcast.xml</link>
+        <description>Solution for your guides problems in Sketch :)</description>
+        <language>en</language>
+
+        <item>
+            <title>v1.6.1</title>
+            <description>
+                <![CDATA[
+                  <h2>For Sketch 45</h2>
+                    <ul><li>Added support for Sketch 45 plugin update system.</li>
+<li>Added Collapse Groups and folder feature</li>
+<li>Performance improvements and bug fixing</li></ul>
+                ]]>
+            </description>
+            <pubDate>Wed, 05 Jul 2017 16:30:24 GMT</pubDate>
+            <enclosure
+                url="https://github.com/pratikjshah/easy-guides-for-sketch/archive/v1.6.1.zip"
+                sparkle:version="1.6.1"
+                type="application/octet-stream"/>
+        </item>
+
+    </channel>
+</rss>
